@@ -1,0 +1,28 @@
+
+h1 
+{
+    color: rgb(20, 44, 36);
+  
+}
+
+body 
+{ 
+    color: rgb(6, 3, 8);
+    
+}
+
+#main {
+    width: 100%;
+    height: 100%;
+}
+
+.main-dark {
+    background: rgb(106, 69, 237);
+}
+
+.main-light {
+    background: rgb(247, 114, 236);
+}
+
+
+
